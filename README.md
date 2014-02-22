@@ -15,7 +15,7 @@ Go to http://developer.yahoo.com/ and create a new project. Please note that if 
 3. Live
 Go to https://account.live.com/developers/applications and create a new project. 
 
-Once everything setup, open the contacts_api.php config file and update the values for your applications.
+Once everything is set up, open the contacts_api.php config file and update the values for your applications.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TsTrv/fetch_contacts/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
