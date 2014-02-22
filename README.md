@@ -3,7 +3,7 @@ fetch_contacts
 
 Codeigniter library for fetching contacts from Google, Yahoo and Live accounts. 
 
-Our API directory now includes 3 fetch contacts APIs (Google, Yahoo, Live). 
+This API directory includes 3 fetch contacts APIs (Google, Yahoo, Live). 
 
 <h2>Installation and Usage</h2>
 Create new projects with your developer accounts.
