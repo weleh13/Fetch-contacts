@@ -18,12 +18,9 @@ Go to https://account.live.com/developers/applications and create a new project.
 Once everything is set up, open the contacts_api.php config file and update the values for your applications.
 
 You can call contact fetching functions by hiting these urls in browser:
-*1. Google
-baseurl().'welcome/getGoogleResponse';
-*2. Yahoo
-baseurl().'welcome/connectYahoo';
-*3. Live
-baseurl().'welcome/connectLive';
+1. Google      baseurl().'welcome/getGoogleResponse';
+2. Yahoo       baseurl().'welcome/connectYahoo';
+3. Live        baseurl().'welcome/connectLive';
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TsTrv/fetch_contacts/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
